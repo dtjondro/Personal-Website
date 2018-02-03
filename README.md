@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## DANIEL TJONDRO
 
-DANIEL TJONDRO
+Hello world! I'm a student at Princeton University studying Civil and Environmental Engineering!
 
 ### Markdown
 
